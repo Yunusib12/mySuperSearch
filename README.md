@@ -1,4 +1,4 @@
-# GroupProject1
+# My Super Search
 Super Search
 Made use of Trello to delegate tasks.
 
