@@ -5,7 +5,7 @@ $(function() {
     let $gBoxResult = $("#gBoxResult");
     let $resultMessage = $("#resultMessagegBox");
     let searchValue = [];
-    let GBOX_API_KEY = "98abf308077c7e107fa86590d74feff3f6fb2ff8";
+    let GBOX_API_KEY = "bcd9f0121d1cb90bbe68ef5fc600d74d5977ff28";
     let rTimeDisplay;
     let rTime;
     let mvID;
